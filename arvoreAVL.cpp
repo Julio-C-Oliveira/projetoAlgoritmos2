@@ -1,3 +1,9 @@
+/*
+Discentes:
+- Luiz Gabriel Santos Moreira - 202304940001
+- Júlio Costa Oliveira - 202104940025
+*/
+
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
